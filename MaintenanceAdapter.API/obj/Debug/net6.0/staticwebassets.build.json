@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wR8adWOvYLaVNM6IsEjPlXkBjm7FrYMIvx4XYwGiU0s=",
+  "Source": "MaintenanceAdapter.API",
+  "BasePath": "_content/MaintenanceAdapter.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
